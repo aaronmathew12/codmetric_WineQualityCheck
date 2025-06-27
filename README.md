@@ -18,10 +18,11 @@ This project uses machine learning to predict the quality of red wine based on v
 - Matplotlib / Seaborn (optional for visualization)
 
 ## 📌 Project Structure
-wine-quality/
-├── code.py # Main script for loading, training, and evaluating models
-├── winequality-red.csv # Dataset (should be placed in the same directory)
-└── README.md # Project documentation
+<pre> 
+   
+   wine-quality/ ├── code.py # Main script for loading, training, and evaluating models 
+                 ├── winequality-red.csv # Dataset (should be placed in the same directory) 
+                 └── README.md # Project documentation  </pre>
 
 🔍 What It Does
 
